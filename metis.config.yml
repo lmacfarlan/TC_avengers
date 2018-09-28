@@ -1,0 +1,7 @@
+project_token: 0bd13945d92890b9a84d1bcc
+name: TC_avengers
+jobs:
+  - job_id: 28f67ecd-800e-49f8-a498-20fec4cad422
+    language: python
+    name: Main
+    entrypoint: "main.py"
